@@ -150,7 +150,7 @@ for (tb_index in seq_along(by_individual)){
 all_respondents <- all_respondents %>% 
   # merge the response from the MIT or not question with that from the metal or insulator question
   mutate(predicted_label = case_when(
-    true_label == "mit" & mit == "Yes" ~ "mit",
+    mit == "Yes" ~ "mit",
     TRUE ~ str_to_lower(predicted_label)
   )) %>% 
   # drop the MIT question response
