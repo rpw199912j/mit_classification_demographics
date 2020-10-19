@@ -26,13 +26,20 @@ was imported, a data cleaning process was carried out to tidy the dataset and to
 later post-processing. This step used several packages from the [Tidyverse](https://www.tidyverse.org/) collection as implemented in the R programming language.
 
 The data cleaning script used can be found [here](https://github.com/rpw199912j/mit_classification_demographics/tree/master/data_cleaning.R). 
+Even better, you can immediately start a RStudio interface right in your web browser without installing any dependecies by clicking
+on the `launch binder` icon below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rpw199912j/mit_classification_demographics/master?urlpath=rstudio)
 
 ## Data analysis
 After the data cleaning process was complete, the [processed datasets](https://github.com/rpw199912j/mit_classification_demographics/tree/master/data/processed/) were used to analyze the classification accuracy 
-by different demographic groups. The descriptor usage was also analyze to see what physical and chemical descriptors were used when
+by different demographic groups. The descriptor usage was also analyzed to see what physical and chemical descriptors were used when
 people were classifying MIT materials.
 
 The Jupyter notebook used for analysis can be found [here](https://github.com/rpw199912j/mit_classification_demographics/tree/master/mit_classification_survey_analysis.ipynb). 
+Just like before, you can also launch an interactive JupyterLab notebook right in your web browser by clicking on the `launch binder` icon below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rpw199912j/mit_classification_demographics/master?urlpath=lab/tree/mit_classification_survey_analysis.ipynb)
 # Supporting Information
 ## Compounds
 |Metals|Insulators|MITs|
