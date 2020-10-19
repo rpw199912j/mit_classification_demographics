@@ -91,7 +91,7 @@ correct_chemical_formulas <- c("LaRuO3", "LaFeO3",  "LaNiO3", "CaFeO3", "ReO3", 
                               "Sr2TiO4","Ti2O3",   "Cr2O3",  "KVO3",   "BaVS3",  "SrCrO3")
 
 correct_labels <- c("metal",     "insulator", "metal",     "mit",       "metal", "metal",
-                    "insulator", "mit",       "metal",     "insulator", "mit",   "mit",
+                    "insulator", "insulator", "metal",     "insulator", "mit",   "mit",
                     "insulator", "mit",       "insulator", "insulator", "mit",   "metal")
 
 # create a function to clean each sub-tibble
@@ -180,9 +180,3 @@ demographics <- demographics %>%
 # Store the cleaned csv files
 write_csv(demographics, 'data/processed/demographics.csv')
 write_csv(all_respondents, 'data/processed/all_respondents.csv')
-
-
-
-
-
-
