@@ -6,7 +6,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10105286993,ReO3,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10105286993,MoO2,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10105286993,MoO3,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
-10105286993,Ag2BiO3,mit,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10105286993,Ag2BiO3,insulator,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10105286993,TiO,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10105286993,MnO,insulator,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10105286993,Ca2RuO4,mit,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -24,7 +24,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10105461244,ReO3,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10105461244,MoO2,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10105461244,MoO3,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
-10105461244,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
+10105461244,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10105461244,TiO,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10105461244,MnO,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10105461244,Ca2RuO4,mit,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
@@ -42,7 +42,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10105551544,ReO3,metal,mit,NA,NA,NA,NA,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10105551544,MoO2,metal,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10105551544,MoO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
-10105551544,Ag2BiO3,mit,mit,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no idea
+10105551544,Ag2BiO3,insulator,mit,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no idea
 10105551544,TiO,metal,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10105551544,MnO,insulator,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10105551544,Ca2RuO4,mit,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
@@ -60,7 +60,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10105717725,ReO3,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,Mass density,NA,NA,NA,NA,NA,NA
 10105717725,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10105717725,MoO3,insulator,mit,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
-10105717725,Ag2BiO3,mit,mit,NA,NA,Average metal-oxygen bond distance,Total number of valence electrons,NA,NA,NA,NA,Standard deviation of average ionic radius of elements,NA,NA,NA
+10105717725,Ag2BiO3,insulator,mit,NA,NA,Average metal-oxygen bond distance,Total number of valence electrons,NA,NA,NA,NA,Standard deviation of average ionic radius of elements,NA,NA,NA
 10105717725,TiO,metal,mit,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10105717725,MnO,insulator,metal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
 10105717725,Ca2RuO4,mit,mit,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -78,7 +78,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10129949550,ReO3,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10129949550,MoO2,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,NA,NA
 10129949550,MoO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,d electron count,Mass density,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
-10129949550,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,NA,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,NA,NA
+10129949550,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,NA,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,NA,NA
 10129949550,TiO,metal,insulator,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
 10129949550,MnO,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,NA,Standard deviation of average ionic radius of elements,NA,NA,NA
 10129949550,Ca2RuO4,mit,insulator,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
@@ -96,7 +96,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10141408673,ReO3,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10141408673,MoO2,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10141408673,MoO3,insulator,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
-10141408673,Ag2BiO3,mit,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10141408673,Ag2BiO3,insulator,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10141408673,TiO,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10141408673,MnO,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10141408673,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -114,7 +114,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10142736028,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10142736028,MoO2,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10142736028,MoO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
-10142736028,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
+10142736028,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10142736028,TiO,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10142736028,MnO,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10142736028,Ca2RuO4,mit,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
@@ -132,7 +132,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10143192620,ReO3,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10143192620,MoO2,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10143192620,MoO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
-10143192620,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
+10143192620,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10143192620,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10143192620,MnO,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10143192620,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -150,7 +150,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10144033010,ReO3,metal,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10144033010,MoO2,metal,mit,NA,NA,Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,Strain
 10144033010,MoO3,insulator,insulator,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
-10144033010,Ag2BiO3,mit,mit,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
+10144033010,Ag2BiO3,insulator,mit,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10144033010,TiO,metal,mit,Stoichiometry,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10144033010,MnO,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10144033010,Ca2RuO4,mit,mit,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
@@ -168,7 +168,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10144105048,ReO3,metal,insulator,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10144105048,MoO2,metal,insulator,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10144105048,MoO3,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
-10144105048,Ag2BiO3,mit,insulator,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
+10144105048,Ag2BiO3,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10144105048,TiO,metal,insulator,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10144105048,MnO,insulator,insulator,NA,NA,Average metal-oxygen bond distance,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10144105048,Ca2RuO4,mit,insulator,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
@@ -186,7 +186,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145209132,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145209132,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145209132,MoO3,insulator,insulator,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
-10145209132,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10145209132,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145209132,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145209132,MnO,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145209132,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -204,7 +204,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145219521,ReO3,metal,mit,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145219521,MoO2,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145219521,MoO3,insulator,mit,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
-10145219521,Ag2BiO3,mit,mit,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
+10145219521,Ag2BiO3,insulator,mit,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145219521,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145219521,MnO,insulator,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145219521,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
@@ -222,7 +222,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145219709,ReO3,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145219709,MoO2,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145219709,MoO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,NA,Mass density,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
-10145219709,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10145219709,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145219709,TiO,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145219709,MnO,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145219709,Ca2RuO4,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -240,7 +240,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145244165,ReO3,metal,metal,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145244165,MoO2,metal,insulator,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145244165,MoO3,insulator,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
-10145244165,Ag2BiO3,mit,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10145244165,Ag2BiO3,insulator,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145244165,TiO,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145244165,MnO,insulator,mit,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145244165,Ca2RuO4,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -258,7 +258,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145244363,ReO3,metal,metal,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,spin orbit coupled
 10145244363,MoO2,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145244363,MoO3,insulator,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
-10145244363,Ag2BiO3,mit,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
+10145244363,Ag2BiO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10145244363,TiO,metal,mit,NA,NA,NA,NA,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10145244363,MnO,insulator,mit,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145244363,Ca2RuO4,mit,mit,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,soc
@@ -276,7 +276,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145280023,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145280023,MoO2,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145280023,MoO3,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
-10145280023,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
+10145280023,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10145280023,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145280023,MnO,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145280023,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
@@ -294,7 +294,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145375101,ReO3,metal,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145375101,MoO2,metal,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10145375101,MoO3,insulator,mit,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
-10145375101,Ag2BiO3,mit,mit,NA,NA,Average metal-oxygen bond distance,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
+10145375101,Ag2BiO3,insulator,mit,NA,NA,Average metal-oxygen bond distance,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10145375101,TiO,metal,mit,Stoichiometry,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10145375101,MnO,insulator,mit,Stoichiometry,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10145375101,Ca2RuO4,mit,mit,NA,NA,NA,Total number of valence electrons,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
@@ -312,7 +312,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145454041,ReO3,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10145454041,MoO2,metal,mit,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10145454041,MoO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
-10145454041,Ag2BiO3,mit,mit,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
+10145454041,Ag2BiO3,insulator,mit,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145454041,TiO,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10145454041,MnO,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10145454041,Ca2RuO4,mit,insulator,NA,NA,NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
@@ -330,7 +330,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145480742,ReO3,metal,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Is ReO REAL?
 10145480742,MoO2,metal,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,How is an Onomanopeia a material?
 10145480742,MoO3,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Same as Moo, it's a sound right?"
-10145480742,Ag2BiO3,mit,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Is this biological?
+10145480742,Ag2BiO3,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Is this biological?
 10145480742,TiO,metal,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Is this misspelled Tin?
 10145480742,MnO,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No idea what this is.
 10145480742,Ca2RuO4,mit,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,I dont know.
@@ -348,7 +348,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145517601,ReO3,metal,metal,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10145517601,MoO2,metal,mit,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10145517601,MoO3,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
-10145517601,Ag2BiO3,mit,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
+10145517601,Ag2BiO3,insulator,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145517601,TiO,metal,metal,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145517601,MnO,insulator,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10145517601,Ca2RuO4,mit,metal,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
@@ -366,7 +366,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145519735,ReO3,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145519735,MoO2,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145519735,MoO3,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
-10145519735,Ag2BiO3,mit,insulator,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10145519735,Ag2BiO3,insulator,insulator,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10145519735,TiO,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10145519735,MnO,insulator,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10145519735,Ca2RuO4,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -384,7 +384,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145593580,ReO3,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10145593580,MoO2,metal,metal,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10145593580,MoO3,insulator,metal,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-10145593580,Ag2BiO3,mit,insulator,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
+10145593580,Ag2BiO3,insulator,insulator,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
 10145593580,TiO,metal,insulator,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10145593580,MnO,insulator,metal,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10145593580,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
@@ -402,7 +402,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145625192,ReO3,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
 10145625192,MoO2,metal,insulator,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10145625192,MoO3,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,NA,Mass density,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
-10145625192,Ag2BiO3,mit,metal,NA,NA,Average metal-oxygen bond distance,NA,d electron count,Mass density,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,NA,NA,NA
+10145625192,Ag2BiO3,insulator,metal,NA,NA,Average metal-oxygen bond distance,NA,d electron count,Mass density,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,NA,NA,NA
 10145625192,TiO,metal,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
 10145625192,MnO,insulator,insulator,NA,NA,Average metal-oxygen bond distance,NA,NA,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
 10145625192,Ca2RuO4,mit,mit,NA,NA,Average metal-oxygen bond distance,NA,NA,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -420,7 +420,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145735050,ReO3,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
 10145735050,MoO2,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,NA,NA
 10145735050,MoO3,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,NA,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,NA,NA
-10145735050,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,Mean electronegativity of elements in formula,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
+10145735050,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,Mass density,Mean electronegativity of elements in formula,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10145735050,TiO,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10145735050,MnO,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,Mass density,Mean electronegativity of elements in formula,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,NA,NA
 10145735050,Ca2RuO4,mit,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,NA,NA
@@ -438,7 +438,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145762578,ReO3,metal,mit,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10145762578,MoO2,metal,mit,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145762578,MoO3,insulator,mit,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
-10145762578,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10145762578,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145762578,TiO,metal,mit,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145762578,MnO,insulator,mit,NA,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145762578,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -456,7 +456,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145803656,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145803656,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145803656,MoO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
-10145803656,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10145803656,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145803656,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145803656,MnO,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10145803656,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -474,7 +474,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10145951278,ReO3,metal,metal,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10145951278,MoO2,metal,metal,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10145951278,MoO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,NA,NA,NA
-10145951278,Ag2BiO3,mit,mit,Stoichiometry,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,Polarizability of the compound,NA,NA,NA,NA
+10145951278,Ag2BiO3,insulator,mit,Stoichiometry,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10145951278,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,Mass density,NA,NA,NA,NA,NA,NA
 10145951278,MnO,insulator,mit,Stoichiometry,NA,NA,NA,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10145951278,Ca2RuO4,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
@@ -492,7 +492,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10146124346,ReO3,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10146124346,MoO2,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10146124346,MoO3,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
-10146124346,Ag2BiO3,mit,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
+10146124346,Ag2BiO3,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10146124346,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10146124346,MnO,insulator,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10146124346,Ca2RuO4,mit,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
@@ -510,7 +510,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10146299420,ReO3,metal,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10146299420,MoO2,metal,mit,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10146299420,MoO3,insulator,insulator,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-10146299420,Ag2BiO3,mit,mit,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10146299420,Ag2BiO3,insulator,mit,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10146299420,TiO,metal,mit,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10146299420,MnO,insulator,insulator,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10146299420,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -528,7 +528,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10146400077,ReO3,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
 10146400077,MoO2,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
 10146400077,MoO3,insulator,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
-10146400077,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
+10146400077,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
 10146400077,TiO,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
 10146400077,MnO,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
 10146400077,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
@@ -546,7 +546,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10146446686,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10146446686,MoO2,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10146446686,MoO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
-10146446686,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
+10146446686,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10146446686,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10146446686,MnO,insulator,insulator,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10146446686,Ca2RuO4,mit,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -564,7 +564,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10146456033,ReO3,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10146456033,MoO2,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10146456033,MoO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,NA,NA,NA
-10146456033,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
+10146456033,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10146456033,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10146456033,MnO,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10146456033,Ca2RuO4,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
@@ -582,7 +582,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10146620187,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10146620187,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10146620187,MoO3,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
-10146620187,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10146620187,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10146620187,TiO,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10146620187,MnO,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
 10146620187,Ca2RuO4,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -600,7 +600,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10146965457,ReO3,metal,mit,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10146965457,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,Standard deviation of average ionic radius of elements,NA,NA,NA
 10146965457,MoO3,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
-10146965457,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
+10146965457,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10146965457,TiO,metal,mit,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10146965457,MnO,insulator,insulator,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10146965457,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
@@ -618,7 +618,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10147012975,ReO3,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10147012975,MoO2,metal,insulator,Stoichiometry,NA,Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10147012975,MoO3,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,NA,Electronic correlation,NA
-10147012975,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
+10147012975,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10147012975,TiO,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10147012975,MnO,insulator,metal,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10147012975,Ca2RuO4,mit,metal,NA,NA,NA,NA,NA,NA,NA,NA,Standard deviation of average ionic radius of elements,NA,NA,NA
@@ -636,7 +636,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10147064722,ReO3,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,NA,NA
 10147064722,MoO2,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
 10147064722,MoO3,insulator,metal,Stoichiometry,NA,Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,NA,NA
-10147064722,Ag2BiO3,mit,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
+10147064722,Ag2BiO3,insulator,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10147064722,TiO,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,NA,NA
 10147064722,MnO,insulator,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,NA,NA
 10147064722,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,NA,NA
@@ -654,7 +654,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10148434153,ReO3,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,Electronic correlation,NA
 10148434153,MoO2,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10148434153,MoO3,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
-10148434153,Ag2BiO3,mit,metal,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,symmetry of the structure
+10148434153,Ag2BiO3,insulator,metal,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,symmetry of the structure
 10148434153,TiO,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10148434153,MnO,insulator,insulator,Stoichiometry,NA,NA,NA,d electron count,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,NA,NA
 10148434153,Ca2RuO4,mit,mit,Stoichiometry,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -672,7 +672,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10151717191,ReO3,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10151717191,MoO2,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10151717191,MoO3,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
-10151717191,Ag2BiO3,mit,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10151717191,Ag2BiO3,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10151717191,TiO,metal,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10151717191,MnO,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10151717191,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
@@ -690,7 +690,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10156726860,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10156726860,MoO2,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10156726860,MoO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
-10156726860,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
+10156726860,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10156726860,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10156726860,MnO,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
 10156726860,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -708,7 +708,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10162426860,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10162426860,MoO2,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10162426860,MoO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
-10162426860,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
+10162426860,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10162426860,TiO,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10162426860,MnO,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
 10162426860,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,Crystal field splitting energy,Electronic correlation,NA
@@ -726,7 +726,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10162436138,ReO3,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10162436138,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10162436138,MoO3,insulator,mit,NA,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
-10162436138,Ag2BiO3,mit,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
+10162436138,Ag2BiO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10162436138,TiO,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10162436138,MnO,insulator,mit,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10162436138,Ca2RuO4,mit,mit,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -744,7 +744,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10162436462,ReO3,metal,metal,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10162436462,MoO2,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10162436462,MoO3,insulator,insulator,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
-10162436462,Ag2BiO3,mit,mit,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
+10162436462,Ag2BiO3,insulator,mit,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10162436462,TiO,metal,insulator,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10162436462,MnO,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10162436462,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -762,7 +762,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10162438717,ReO3,metal,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10162438717,MoO2,metal,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10162438717,MoO3,insulator,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
-10162438717,Ag2BiO3,mit,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
+10162438717,Ag2BiO3,insulator,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10162438717,TiO,metal,mit,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10162438717,MnO,insulator,metal,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10162438717,Ca2RuO4,mit,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
@@ -780,7 +780,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10162460355,ReO3,metal,metal,NA,NA,NA,Total number of valence electrons,NA,NA,NA,Polarizability of the compound,Standard deviation of average ionic radius of elements,NA,NA,NA
 10162460355,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10162460355,MoO3,insulator,insulator,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
-10162460355,Ag2BiO3,mit,metal,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
+10162460355,Ag2BiO3,insulator,metal,Stoichiometry,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10162460355,TiO,metal,insulator,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10162460355,MnO,insulator,insulator,Stoichiometry,NA,Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10162460355,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
@@ -798,7 +798,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10162468766,ReO3,metal,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10162468766,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10162468766,MoO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
-10162468766,Ag2BiO3,mit,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
+10162468766,Ag2BiO3,insulator,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10162468766,TiO,metal,metal,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10162468766,MnO,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
 10162468766,Ca2RuO4,mit,mit,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -816,7 +816,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10162477806,ReO3,metal,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10162477806,MoO2,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10162477806,MoO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
-10162477806,Ag2BiO3,mit,insulator,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
+10162477806,Ag2BiO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10162477806,TiO,metal,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10162477806,MnO,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10162477806,Ca2RuO4,mit,mit,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Electronic correlation,NA
@@ -834,7 +834,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10162575392,ReO3,metal,insulator,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10162575392,MoO2,metal,insulator,NA,NA,NA,NA,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10162575392,MoO3,insulator,mit,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
-10162575392,Ag2BiO3,mit,mit,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
+10162575392,Ag2BiO3,insulator,mit,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
 10162575392,TiO,metal,mit,Stoichiometry,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10162575392,MnO,insulator,mit,NA,NA,NA,Total number of valence electrons,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10162575392,Ca2RuO4,mit,insulator,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
@@ -852,7 +852,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10163067121,ReO3,metal,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
 10163067121,MoO2,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
 10163067121,MoO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
-10163067121,Ag2BiO3,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
+10163067121,Ag2BiO3,insulator,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
 10163067121,TiO,metal,insulator,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10163067121,MnO,insulator,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10163067121,Ca2RuO4,mit,mit,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
@@ -870,7 +870,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10163866999,ReO3,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10163866999,MoO2,metal,metal,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10163866999,MoO3,insulator,metal,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
-10163866999,Ag2BiO3,mit,metal,NA,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
+10163866999,Ag2BiO3,insulator,metal,NA,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10163866999,TiO,metal,metal,NA,NA,Average metal-oxygen bond distance,NA,d electron count,NA,NA,NA,Standard deviation of average ionic radius of elements,NA,NA,NA
 10163866999,MnO,insulator,metal,NA,NA,NA,NA,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
 10163866999,Ca2RuO4,mit,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,Mass density,NA,NA,NA,NA,NA,NA
@@ -888,7 +888,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10171054108,ReO3,metal,metal,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
 10171054108,MoO2,metal,mit,Stoichiometry,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10171054108,MoO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
-10171054108,Ag2BiO3,mit,insulator,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
+10171054108,Ag2BiO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10171054108,TiO,metal,mit,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
 10171054108,MnO,insulator,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10171054108,Ca2RuO4,mit,metal,NA,NA,NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
@@ -906,7 +906,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10172361981,ReO3,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,Mean electronegativity of elements in formula,Polarizability of the compound,NA,NA,NA,NA
 10172361981,MoO2,metal,metal,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,Mean electronegativity of elements in formula,NA,NA,Crystal field splitting energy,NA,NA
 10172361981,MoO3,insulator,insulator,Stoichiometry,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
-10172361981,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,NA,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,NA,NA
+10172361981,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,NA,NA,NA,Polarizability of the compound,NA,Crystal field splitting energy,NA,NA
 10172361981,TiO,metal,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10172361981,MnO,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,NA,d electron count,NA,NA,Polarizability of the compound,NA,NA,Electronic correlation,NA
 10172361981,Ca2RuO4,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",Average metal-oxygen bond distance,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
@@ -924,7 +924,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10280657682,ReO3,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,NA,NA
 10280657682,MoO2,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10280657682,MoO3,insulator,insulator,NA,NA,NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
-10280657682,Ag2BiO3,mit,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
+10280657682,Ag2BiO3,insulator,insulator,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10280657682,TiO,metal,metal,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,d electron count,NA,NA,NA,NA,NA,NA,NA
 10280657682,MnO,insulator,insulator,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,NA,Electronic correlation,NA
 10280657682,Ca2RuO4,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,Total number of valence electrons,d electron count,NA,NA,NA,NA,Crystal field splitting energy,Electronic correlation,NA
@@ -942,7 +942,7 @@ respondent_id,formula,true_label,predicted_label,stoichiometry,crystal_structure
 10991455189,ReO3,metal,mit,NA,NA,NA,NA,NA,NA,Mean electronegativity of elements in formula,NA,NA,NA,NA,NA
 10991455189,MoO2,metal,mit,NA,NA,NA,Total number of valence electrons,NA,NA,NA,NA,NA,NA,NA,NA
 10991455189,MoO3,insulator,insulator,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crystal field splitting energy,NA,NA
-10991455189,Ag2BiO3,mit,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10991455189,Ag2BiO3,insulator,mit,NA,"Crystal structure (e.g. perovskite, rock salt, rutile)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10991455189,TiO,metal,insulator,Stoichiometry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10991455189,MnO,insulator,metal,NA,NA,Average metal-oxygen bond distance,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10991455189,Ca2RuO4,mit,mit,NA,NA,NA,NA,NA,NA,NA,Polarizability of the compound,NA,NA,NA,NA
