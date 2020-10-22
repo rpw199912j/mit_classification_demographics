@@ -3,7 +3,7 @@ This repository is to accompany the supporting demographics analysis in the pape
 "A Database and Machine Learning Model to Identify Thermally Driven Metal-Insulator Transition Compounds".
 
 # Research Question
-This project involves the use of a survey sent out to around 200 people (e.g. materials scientists, physics, chemists) to to see how well domain experts 
+This project involves the use of a survey sent out to around 200 people (e.g. materials scientists, physics, chemists) to see how well domain experts 
 will do when classifying the Metal-Insulator Transition (MIT) compounds and to examine whether or not MIT classification is a trivial task for human experts.
 
 # Workflow
@@ -18,7 +18,8 @@ For each compound, the respondents were asked to perform 3 tasks:
 A list of 11 descriptors were provided in the survey and respondents were asked to add in descriptors 
 they used that were not already provided.
 
-Please refer to [this section](https://github.com/rpw199912j/mit_classification_demographics#supporting-information) for the complete list compounds and descriptors used in the survey.
+Please refer to [this section](https://github.com/rpw199912j/mit_classification_demographics#supporting-information) 
+for the complete list of compounds and descriptors used in the survey.
 
 ## Data cleaning
 After the [raw survey data](https://github.com/rpw199912j/mit_classification_demographics/tree/master/data/unprocessed/material_conductivity_survey.csv) 
@@ -53,7 +54,7 @@ Just like before, you can also launch an interactive JupyterLab notebook right i
 | |Ag2BiO3| |'
 
 ## Descriptors
-|Descriptors used|
+|Descriptors provided|
 |:---------------|
 |Stoichiometry|
 |Crystal structure (e.g.  perovskite, rock salt, rutile)|
