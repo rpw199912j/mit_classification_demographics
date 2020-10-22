@@ -3,7 +3,7 @@ This repository is to accompany the supporting demographics analysis in the pape
 "A Database and Machine Learning Model to Identify Thermally Driven Metal-Insulator Transition Compounds".
 
 # Research Question
-This project involves the use of a survey sent out to around 200 people (e.g. materials scientists, physics, chemists) to see how well domain experts 
+This project involves the use of a survey sent out to around 200 people (e.g. materials scientists, physicists, chemists) to see how well domain experts 
 will do when classifying the Metal-Insulator Transition (MIT) compounds and to examine whether or not MIT classification is a trivial task for human experts.
 
 # Workflow
