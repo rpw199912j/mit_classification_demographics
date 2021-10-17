@@ -2,11 +2,11 @@
 This repository is to accompany the supporting demographics analysis in the paper 
 "A Database and Machine Learning Model to Identify Thermally Driven Metal-Insulator Transition Compounds".
 
-**Check out our [preprint paper](https://arxiv.org/abs/2010.13306) on arXiv:**
+**Check out our [paper](https://doi.org/10.1021/acs.chemmater.1c00905) on _Chemistry of Materials_:**
 
-> Georgescu, A. B.; Ren, P.; Toland, A. R.; Olivetti, E. A.; Wagner, N.; Rondinelli, J. M. 
-> A Database and Machine Learning Model to Identify Thermally Driven Metal-Insulator Transition Compounds. 
-> arXiv:2010.13306 [cond-mat] 2020.
+> Georgescu, A. B.; Ren, P.; Toland, A. R.; Zhang, S.; Miller, K. D.; Apley, D. W.; Olivetti, E. A.; Wagner, N.; Rondinelli, J. M. 
+> Database, Features, and Machine Learning Model to Identify Thermally Driven Metal−Insulator Transition Compounds.
+> _Chem. Mater._ **2021**. DOI: 10.1021/acs.chemmater.1c00905.
 
 The code for the XGBoost classifiers for metal-insulator transition compounds can be found at 
 [this repository](https://github.com/MTD-group/mit_model_code).
