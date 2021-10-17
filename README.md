@@ -1,6 +1,6 @@
 # MIT Classification Demographics
 This repository is to accompany the supporting demographics analysis in the paper 
-"A Database and Machine Learning Model to Identify Thermally Driven Metal-Insulator Transition Compounds".
+"Database, Features, and Machine Learning Model to Identify Thermally Driven Metal−Insulator Transition Compounds".
 
 **Check out our [paper](https://doi.org/10.1021/acs.chemmater.1c00905) on _Chemistry of Materials_:**
 
